@@ -19,3 +19,4 @@ These data are obtained with 1~20dB SNR sweep at the above sampling clock.(w/ 17
 
 
 ***210106/PAM4 data are updated
+data_out_* is 6bit input data, and data_in_* is 2bit output data.
